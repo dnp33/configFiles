@@ -1,3 +1,3 @@
-cp .bashrc ~
-cp custom.js ~/.jupyter/custom/
-cp custom.css ~/.jupyter/custom/
+cp configFiles/.bashrc ~
+cp configFiles/custom.js ~/.jupyter/custom/
+cp configFiles/custom.css ~/.jupyter/custom/
